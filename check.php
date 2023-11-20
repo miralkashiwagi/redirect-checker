@@ -37,13 +37,13 @@
             タイトル
         </th>
         <th>
-            Status
+            Status1
         </th>
         <th>
             リダイレクト先タイトル
         </th>
         <th>
-            Status
+            Status2
         </th>
         <th>
             リダイレクト先URL
