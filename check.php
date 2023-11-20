@@ -1,8 +1,8 @@
 <!doctype html>
-<html>
+<html lang="ja">
 <head>
     <meta charset="UTF-8">
-    <title>結果</title>
+    <title>リダイレクト状況チェックツール：結果画面</title>
     <style>
         table {
             table-layout: fixed;
