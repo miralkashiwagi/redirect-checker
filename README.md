@@ -47,8 +47,8 @@
 ### 「最終的なリダイレクト先」とは
 以下のようなリダイレクト設定のとき、 test1.html の最終的なリダイレクト先は test3.html となる
 ```
-RedirectMatch permanent /test1.html$ /testing/redirection/test2.html
-RedirectMatch permanent /test2.html$ /testing/redirection/test3.html
+RedirectMatch permanent /test1.html$ /test2.html
+RedirectMatch permanent /test2.html$ /test3.html
 ```
 
 ### リダイレクト設定の問題を確認する
